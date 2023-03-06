@@ -1,0 +1,18 @@
+.Phonetics{
+    height: 50px;
+}
+
+.Phonetics a {
+    border: 1px solid #fff;
+    background-color: #c7ddd1;
+    color: white;
+    text-decoration: none;
+    padding: 12px 12px;
+    font-size: 12px;
+    border-radius: 15px;
+    transition: all 150ms ease-in-out;
+}
+
+.Phonetics a:hover{
+    background: black;
+}
