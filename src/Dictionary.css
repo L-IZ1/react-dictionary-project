@@ -3,9 +3,9 @@
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.7);
     padding: 30px;
     font-size: 24px;
-    background: #1c3327;
-    color: #c7ddd1;
-    margin: 20px 0 auto;
+    background:#264301;
+    color: #d3e3b6;
+    margin-top: 20px;
 }
 
 .Dictionary h1 {
@@ -17,7 +17,7 @@
 .Dictionary input{
     width: 100%;
     border-radius: 6px;
-    border: 1px solid #1c3327;
+    border: 1px solid #264301;
     padding: 4px auto;
     
 }

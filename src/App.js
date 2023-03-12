@@ -13,7 +13,26 @@ export default function App() {
           <Dictionary defaultkeyword="sustainability"/>
         </main>
         <footer className="App-footer">
-          <small>Coded by Elise</small>
+          <small>This project was coded by Elise Petitjean and is </small>
+          <small>
+            {" "}
+            <a className="link-git"
+              href="https://github.com/L-IZ1/react-dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-Source 
+            </a>
+             and {" "}
+            <a className="link-git"
+              href="https://zingy-bublanina-398945.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              hosted on Netlify.
+            </a>
+          </small>
         </footer>
       </div>
     </div>

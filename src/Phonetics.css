@@ -3,16 +3,17 @@
 }
 
 .Phonetics a {
-    border: 1px solid #fff;
-    background-color: #c7ddd1;
-    color: white;
+    border: 1px solid #264301;
+    background-color: #d6f58e;
+    color: #264301;
     text-decoration: none;
     padding: 12px 12px;
-    font-size: 12px;
+    font-size: 14px;
     border-radius: 15px;
+    margin-right: 10px;
     transition: all 150ms ease-in-out;
 }
 
 .Phonetics a:hover{
-    background: black;
+    background: #d3e3b6
 }
